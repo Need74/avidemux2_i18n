@@ -689,7 +689,7 @@ Ignorer les informations de timing ?</translation>
     </message>
     <message>
         <source>&lt;b&gt;Video Decoder&lt;/b&gt;</source>
-        <translation type="vanished">&lt;b&gt;Décodeur vidéo&lt;/b&gt;</translation>
+        <translation>&lt;b&gt;Décodeur vidéo&lt;/b&gt;</translation>
     </message>
     <message>
         <location line="+215"/>
@@ -12541,32 +12541,32 @@ L&apos;édition en cours a été enregistrée et sera rechargée au prochain dé
         <translation type="vanished">Vidéo</translation>
     </message>
     <message>
-        <source>Image Size:	</source>
-        <translation type="vanished">Taille image : </translation>
+        <source>Image Size:</source>
+        <translation type="vanished">Taille image :</translation>
     </message>
     <message>
-        <source>Aspect Ratio:	</source>
-        <translation type="vanished">Ratio : </translation>
+        <source>Aspect Ratio:</source>
+        <translation type="vanished">Ratio :</translation>
     </message>
     <message>
-        <source>Frame Rate:	</source>
-        <translation type="vanished">Fréquence : </translation>
+        <source>Frame Rate:</source>
+        <translation type="vanished">Fréquence :</translation>
     </message>
     <message>
-        <source>Total Duration:	</source>
-        <translation type="vanished">Durée totale : </translation>
+        <source>Total Duration:</source>
+        <translation type="vanished">Durée totale :</translation>
     </message>
     <message>
         <source>Extra Video Properties</source>
         <translation type="vanished">Propriétés vidéos étendues</translation>
     </message>
     <message>
-        <source>Channels:	</source>
-        <translation type="vanished">Canaux : </translation>
+        <source>Channels:</source>
+        <translation type="vanished">Canaux :</translation>
     </message>
     <message>
-        <source>Bitrate:	</source>
-        <translation type="vanished">Débit : </translation>
+        <source>Bitrate:</source>
+        <translation type="vanished">Débit :</translation>
     </message>
     <message>
         <location line="+198"/>
