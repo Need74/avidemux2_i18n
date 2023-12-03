@@ -689,7 +689,7 @@ Ignorer les informations de timing ?</translation>
     </message>
     <message>
         <source>&lt;b&gt;Video Decoder&lt;/b&gt;</source>
-        <translation type="vanished">&lt;b&gt;Décodeur vidéo&lt;/b&gt;</translation>
+        <translation>&lt;b&gt;Décodeur vidéo&lt;/b&gt;</translation>
     </message>
     <message>
         <location line="+215"/>
